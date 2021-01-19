@@ -17,3 +17,6 @@ E-mails vinculados:
 
 * à cada 2 semanas
 
+*Colaboração*
+
+* Deixo aberto para quem quiser colaborar com o projeto
